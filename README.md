@@ -1,0 +1,1 @@
+A simple calculator app to demonstrate how to use MVC framework in Eclipse. Pay attention to the project structure.
